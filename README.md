@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neoNite77, AKAm Abraham.
+- 👋 Hi, I’m @neoNite77, or Abraham.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning the concepts behind front-end and back-end domains.
 - 💞️ I’m looking to collaborate on mini-projects.
