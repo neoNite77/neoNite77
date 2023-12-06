@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @neoNite77, or Abraham.
-- Passion for web and mobile app development.
-- HTML, CSS, JavaScript | Kotlin | Python | Postgress, SQL
-- Learning new things each week
+- Passion for software development.
+- HTML, CSS, JavaScript | Python | SQL
 
 <!---
 neoNite77/neoNite77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
